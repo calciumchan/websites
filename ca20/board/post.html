@@ -1,0 +1,28 @@
+<head>
+<title>Ca20 Post</title>
+<link rel=stylesheet href=style.css>
+</head>
+
+<body>
+<script src=script.js></script>
+
+
+<div id=input>
+	<a href=index.html><button>Back</button></a>
+	<a href=board.html><button>Board</button></a><br>
+	PFP:<br>
+	<div id=pfps>
+		<img src=pfp0.png class=selectpfp onclick=set_pfp(0)>
+		<img src=pfp1.png class=selectpfp onclick=set_pfp(1)>
+		<img src=pfp2.png class=selectpfp onclick=set_pfp(2)>
+		<img src=pfp3.png class=selectpfp onclick=set_pfp(3)>
+	</div>
+	<img src=pfp0.png id=userpfp><br>
+	Name:<br>
+	<input id="input_name" type="text"></input><br>
+	Message:<br>
+	<textarea id="input_body" rows="4" cols="50"></textarea><br>
+	<button onclick=post()>Post</button>
+</div>
+
+</body>

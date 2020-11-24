@@ -1,0 +1,1 @@
+rsync -uvr --delete calciumsite/ root@calciumchan.com:/var/www/calcium
