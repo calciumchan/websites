@@ -1,115 +1,41 @@
-*{
-	border-color:#7f7b7a;
-}
-
 body{
-	background-color:#f2f2fa;
-	background-image:url("assets/bg.png");
-	background-attachment:fixed;
-	background-position:bottom 8px right 8px;
-	background-repeat:no-repeat;
+	background-color:#373B3E;
+	color:#BEC8D1;
+	font-family: 'Courier New', monospace;
+	display:flex;
+	align-items: center;
+	flex-direction: column;
+	padding:0px;
+	margin:0px;
 }
 
-#main{
-	position:absolute;
-	left:0px;
-	right:0px;
-	margin-left:auto;
-	margin-right:auto;
-	top:0px;
-	min-height:100%;
-	background:#d4e8cd;
-	width:800px;
-	max-width:calc(100% - 8px);
-	border-width:4px;
-	border-left-style:solid;
-	border-right-style:solid;
+img{
+	max-width: 100%;
 }
 
-#leftbar{
-	position:absolute;
-	left:0px;
-	top:0px;
-	width:30%;
-	text-align:center;
-	padding-top:2rem;
+h1{
+	color:#47A5AE;
 }
 
-#rightbar{
-	position:absolute;
-	right:0px;
-	top:0px;
-	width:70%;
-}
-
-#pfp{
-	width:80%;
-	border-width:4px;
-	border-style:solid;
-	border-radius:8px;
-}
-
-#header{
-	width:calc(100% - 4px);
-	background:red;
-	border-style:none none solid solid;
-	border-width:4px;
-	border-radius:0px 0px 0px 8px;
-}
-
-.post{
-	background:#e78471;
-	margin:4px;
-	padding:2px;
-	padding-top:0.5rem;
-	margin-top:2rem;
-	position:relative;
-	border-style:solid;
-	border-width:4px;	
-	border-radius:8px;
-}
-
-.post_title{
-	background:#e78471;
-	display:inline-block;
-	margin-top:-1.5rem;
-	position:absolute;
-	border-style:solid;
-	border-width:2px;
-	padding-left:8px;
-	padding-right:8px;
-	border-radius:8px;
-	text-align:center;
+a{
+	color:#B7EAEE;
+	text-decoration: none;
 	font-weight: bold;
 }
-
-.post_title::first-letter{
-	color:#8298c7;
+a:visited{
+	color:#86CECB;
+}
+a:hover{
+	color:#47A5AE;
 }
 
-.link{
-	background:#81bacd;
-	margin:4px;
-	padding:2px;
-	padding-top:0.5rem;
-	position:relative;
+.box{
+	background-color:#152441;
 	border-style:solid;
-	border-width:4px;	
-	border-radius:0px 8px 8px 0px;
-	border-color:#217bd3;
-	text-align:left;
-	padding-left:2.5rem;
-	overflow:hidden;
-	background-size:2rem 2rem;
-	background-repeat:no-repeat;
-	background-position:0px 0px;
-}
-
-.link::first-letter{
-	color:#0e7ac2;
-}
-
-#leftbar a{
-	color:black;
-	text-decoration:none;
+	border-color:#E12885;
+	padding:4px;
+	box-shadow:8px 8px 0px #172848;
+	margin:1rem;
+	max-width: 100%;
+	min-width:50%;
 }
