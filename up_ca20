@@ -1,0 +1,1 @@
+rsync -uvr --delete ca20/ root@ca20.ca:/var/www/ca20

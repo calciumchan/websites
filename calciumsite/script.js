@@ -1,11 +1,10 @@
-if(sessionStorage.getItem("refreshes") == null){
-    sessionStorage.setItem("refreshes", 0);
-}
-if(sessionStorage.getItem("refreshes") > 7){
-    sessionStorage.setItem("refreshes", 0);
-}
-sessionStorage.setItem("refreshes", parseInt(sessionStorage.getItem("refreshes"))+1);
 
-if(sessionStorage.getItem("refreshes") == 6){
-    document.title = "CORRUPT";
+function start(){
+	var MAX_HEADERS = 2;
+	console.log("FUCK");
+	console.log(document.getElementById("img_header"));
+	document.getElementById("img_header").src = "assets/headers/"+Math.round(Math.random()*MAX_HEADERS)+".png";
+	console.log(document.getElementById("img_header").src);
 }
+
+window.onload = start;
