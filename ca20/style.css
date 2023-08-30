@@ -109,6 +109,8 @@
 	--3d-object-color:#005577;
 	--3d-fog-color:#00eeff;
 	--3d-filter:blur(0px) drop-shadow(8px 8px 4px #005577);
+	--phrase-font-color:#00eeff;
+	--phrase-shadow-color:black;
 }
 .racer{
 	--bg-color:#ffbb00;
@@ -122,12 +124,13 @@
 	--main-header-color:#ffbb00;
 	--project-border-color:#ffbb00;
 	--phrase-font-color:#000000;
+	--phrase-shadow-color:#ffbb00;
 	--main-header-bg-filter:contrast(200%) invert() grayscale();
 	--button-icon-glow-color:#ffbb00;
 	--underbg-image:url("assets/underbg/racer.png");
 	--3d-object-color:#000000;
 	--3d-fog-color:#000000;
-	--3d-filter:drop-shadow(0px 0px 2px #000000);
+	--3d-filter:drop-shadow(0px 0px 2px #000000)drop-shadow(0px 0px 2px #000000);
 }
 
 .rot{
@@ -149,6 +152,29 @@
 	--button-icon-glow-color:#000000;
 	--project-border-color:#220000;
 	--3d-filter:blur(3px) drop-shadow(0px 0px 8px #ff0000);
+}
+.neon{
+	--bg-color:#ff00ff;
+	--bg-image:linear-gradient(to bottom,#ff00ff,#00ffff);
+	--main-bg-color:#550055;
+	--main-section-bg-color:#ff00ff;
+	--main-section-bg-image:linear-gradient(to left,#00000000,#00ffff);
+	--main-section-header-bg-color:#ffffff;
+	--main-section-header-bg-image:linear-gradient(to left,#00000000,#00ffff);
+	--main-section-header-font-color:#ffffff;
+	--main-header-color:#00ffff;
+	--button-icon-glow-color:#00ffff;
+	--shadow-color:#00ffff;
+	--3d-object-color:#ffffff;
+	--3d-fog-color:#ffffff;
+	--3d-filter:
+		drop-shadow(4px 0px 0px #00ffff)
+		drop-shadow(-4px 0px 0px #ff00ff)
+	;
+	--main-header-bg-filter:contrast(50%) brightness(300%) grayscale();
+	--phrase-font-color:#ffffff;
+	--phrase-shadow-color:#00ffff;
+	--project-border-color:#ffff00;
 }
 
 
@@ -334,4 +360,5 @@ a{
 	font-size: 12px;
 	width:20rem;
 	max-width: 100%;
+	font-weight:bolder;
 }

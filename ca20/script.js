@@ -31,6 +31,9 @@ let themes = {
 	},
 	"rot":{
 		"class":"rot"
+	},
+	"neon":{
+		"class":"neon"
 	}
 }
 
@@ -53,6 +56,8 @@ function set_theme(themename){
 		document.body.classList.add(themes[themename].class);
 	}
 }
+
+//set_theme("halloween");
 
 /*------------------------------------------------------------------------------------------------------------------------
 
