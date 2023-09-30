@@ -176,27 +176,6 @@
 	--phrase-shadow-color:#00ffff;
 	--project-border-color:#ffff00;
 }
-.aqua{
-	--bg-color:#ffffff;
-	--main-bg-color:#ddffff;
-	--main-section-bg-color:#55ffff;
-	--main-section-bg-image:linear-gradient(to right,#00000000,#bbffff);
-	--main-section-header-bg-color:#ffff22;
-	--main-section-header-bg-image:linear-gradient(to left,#00000000,#ffff00);
-	--main-section-header-font-color:#ffffff;
-	--main-header-color:#aaffff;
-	--3d-object-color:#ffffff;
-	--3d-fog-color:#ffffff;
-	--3d-filter:
-		drop-shadow(0px 0px 4px #00ffff)
-	;
-	--font-color:#004444;
-	--button-icon-glow-color:#00ffff;
-	--shadow-color:#aaffff;
-	--main-header-bg-filter:contrast(50% )grayscale();
-	--phrase-shadow-color:#00ffff;
-	--project-border-color:#ffff00;
-}
 
 
 

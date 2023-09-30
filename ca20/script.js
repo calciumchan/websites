@@ -34,9 +34,6 @@ let themes = {
 	},
 	"neon":{
 		"class":"neon"
-	},
-	"aqua":{
-		"class":"aqua"
 	}
 }
 
@@ -60,7 +57,7 @@ function set_theme(themename){
 	}
 }
 
-//set_theme("aqua");
+//set_theme("halloween");
 
 /*------------------------------------------------------------------------------------------------------------------------
 
