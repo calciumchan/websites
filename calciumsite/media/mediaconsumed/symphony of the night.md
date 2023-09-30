@@ -1,0 +1,8 @@
+2023-09-24
+ive played SOTN like 3 or 4 times now, and i really want to play it again someday, its just so good. i have this weird brain worm that makes me really favor the first thing i experienced in a given set of things, cagliostro is my favorite miyazaki film for this reason (and i just really really like lupin). but despite playing this game well after [[?aria of sorrow]] and a whole host of other metroidvania type games this might be my favorite of the lot.
+
+like theres just something about the pixel art and the castle that really stick out in my mind. i can hear some of the music in my head despite never listening to the OST on its own as far as i can remember. for some reason symphony of the night is just really really memorable and i cant really place my finger on why.
+
+anyways how bout them programmer art menus huh? its one of those things that you kinda just accept until its pointed out to you. and in my opinion its one of the many aspects of symphony that lulls you into this false sense that the game is running on lower end hardware? like it might just be me but theres a bunch of stuff in this game that tricks my brain into thinking its a snes title or something of the like. so when alucard turns into an adobe flash tweened wolf its like "oh shit this is crazy". the 3d spinning coffins when you save and that one background in that room with the sword thing? its all stuff thats probably pretty simple all things considered but it just feels so much cooler when its set against a bunch of stuff i associate with older generations of hardware.
+
+#games #castlevania 

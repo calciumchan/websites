@@ -1,0 +1,10 @@
+2023-09-25
+this is by far one of my favorite little games ever made, its a free download on ITCH at the time of writing and id say its well worth the time. it has a lot of [[?moon remix rpg]] DNA in it and in my opinion thats never a bad thing. this game is part of the love-de-lic legacy as far as im concerned with its focus on exploration and visuals over combat or raw gameplay, and its mixed media feel. the weird screenshader the game uses that makes everything jiggle about is really impressive, im not sure ive seen anything like it and it gives the game this really nice hand made feel.
+
+im really curious how the games assets were made and i hope the developer gamma girl sheds some light on that at some point because its genuinely hard to tell whats going into this production. its impressive to me just how much a piece of media can inspire in me with its visual alone and GOB really takes that to the next level.
+
+that being said its gameplay is also very interesting, ultra stripped back and minimal in its design, but very purposeful. the dedication to a UI thats entirely devoid of text must come with some really big design problems. its one thing to tell the player verbally that a door is frozen shut, its another thing to convey that visually. GOB manages this type of design really well and i look forward to seeing more of it in the future as the project progresses.
+
+at present ive been reading [[?dorohedoro]], and semi recently played [[?garage]] for the first time, and that slime coated atmosphere is here is spades. everything is covered in 20 layers of dust, shit, graffiti, and mud and ive never been happier. im so glad that im able to find enjoyment in dark little fucko boingo worlds like this, theres really nothing else like them. seeing this strange little fella wander around this dingy little world fills me with feeling that i cant quite describe. part of me really wants to live in these weird little world, but at the same time theyre so fucking gross its probably not worth it what with the black mold and all.
+
+#games #itch #love-de-lic
