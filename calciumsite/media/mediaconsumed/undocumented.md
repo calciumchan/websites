@@ -30,7 +30,6 @@ usually stuff that isnt backlinked in other places
 [[?paprika]]
 [[?perfect blue]]
 [[?nekojiru]]
-[[?serial experients lain PSX]]
 [[?summer wars]]
 [[?the girl who leapt through time]]
 [[?mirai no mirai]]
@@ -64,17 +63,14 @@ usually stuff that isnt backlinked in other places
 [[?the dirties]]
 [[?im thinking of ending things]]
 [[?doubt (2008)]]
-[[?in bruges]]
 [[?audition]]
 [[?all about lily chou chou]]
+[[?house]]
 
 # GAMES
 
 [[?ape escape]]
-[[?echo (visual novel)]]
 [[?halo 2 (project cartographer)]]
-[[?kingdom hearts 358]]
-[[?iblard laputa no kaeru machi]]
 [[?CSGO]]
 [[?ratz instagib]]
 [[?celeste]]
@@ -88,7 +84,6 @@ usually stuff that isnt backlinked in other places
 [[?strange telephone]]
 [[?luna nights]]
 [[?yomi hustle]]
-[[?vomitorium]]
 [[?yume nikki]]
 [[?melee]]
 [[?project M]]
@@ -97,7 +92,6 @@ usually stuff that isnt backlinked in other places
 [[?after a while (itch)]]
 [[?hlina]]
 [[?🐹]]
-[[?silent hill 2]]
 [[?zerahypt]]
 [[?poinies poin]]
 
@@ -106,6 +100,7 @@ usually stuff that isnt backlinked in other places
 [[?american football (lp1-3)]]
 [[?nurture - porter robinson]]
 [[?childs medical record - shinsei kamattechan]]
+[[?水星 (mercury)]] just a bunch of different versions of the same beat?
 # SHOWS
 
 [[?moral orel]]

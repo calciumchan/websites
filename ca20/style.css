@@ -193,6 +193,8 @@ body{
 	background-image:var(--bg-image);
 	background-position:var(--bg-image-position);
 	color:var(--font-color);
+	padding:0px;
+	margin:0px;
 }
 #canvas_3d{
 	position: fixed;
@@ -217,6 +219,7 @@ body{
 	border-color: #222;
 	border-width: 2px;
 	box-shadow: 5px 0px 8px var(--shadow-color);
+	box-sizing: border-box;
 }
 #header{
 	top:0px;
@@ -345,6 +348,7 @@ a{
 	height: 100%;
 	width: calc(100% - 600px);
 	filter:blur(1px);
+	box-sizing: border-box;
 }
 
 #special_phrase{

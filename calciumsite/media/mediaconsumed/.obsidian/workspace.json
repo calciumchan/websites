@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "undocumented.md",
+                "file": "garage.md",
                 "mode": "source",
                 "source": false
               }
@@ -38,7 +38,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical"
+                "sortOrder": "byCreatedTime"
               }
             }
           },
@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#games",
-                "matchingCase": false,
+                "query": "house",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "undocumented.md",
+                "file": "garage.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "undocumented.md",
+                "file": "garage.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,30 +125,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "undocumented.md"
+                "file": "garage.md"
               }
             }
-          },
-          {
-            "id": "b7442538dbd5c9d5",
-            "type": "leaf",
-            "state": {
-              "type": "stats-tracker",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
-      "switcher:Open quick switcher": false,
       "graph:Open graph view": false,
+      "switcher:Open quick switcher": false,
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
@@ -157,39 +147,39 @@
   },
   "active": "39dfdadd18555529",
   "lastOpenFiles": [
-    "watchlist.md",
+    "index.md",
+    "synecdoche new york.md",
+    "garage.md",
+    "symphony of the night.md",
     "undocumented.md",
-    "cave story.md",
+    "tetris (tetr.io).md",
     "khonjin house.md",
+    "rogue legacy.md",
     "wonder egg priority.md",
+    "GOB (demo).md",
+    "watchlist.md",
+    "cave story.md",
+    "tess.md",
+    "2023-10-03.md",
+    "alien 9 (manga).md",
+    "super mario bros X.md",
+    "pee-wees big adventure.md",
+    "twin peaks.md",
+    "mindustry.md",
+    "opus magnum.md",
+    "factorio.md",
+    "?aria the animation.md",
     "?uta kata.md",
     "test.md",
-    "tetris (tetr.io).md",
-    "tess.md",
-    "synecdoche new york.md",
-    "symphony of the night.md",
-    "rogue legacy.md",
     "Opus Magnum - Explosive Phial (80G, 88, 20, 2023-09-20-17-40-22).gif",
-    "opus magnum.md",
     "madoka magica.md",
-    "index.md",
-    "GOB (demo).md",
-    "alien 9 (manga).md",
     "?synecdoche new york.md",
-    "nurture - porter robinson.md",
-    "strawberry cubes.md",
-    "🐹.md",
-    "Opus Magnum - Explosive Phial (80G, 88, 20, 2023-09-20-17-40-22) 1.gif.md",
     "images/Opus Magnum - Explosive Phial (80G, 88, 20, 2023-09-20-17-40-22) 1.gif",
     "images",
     "Opus Magnum - Courage Potion (70G, 106, 22, 2023-09-21-23-33-38).gif",
-    "chainsaw man.md",
-    "lupin cagliostro.md",
-    "funny games (2007).md",
     "Pasted image 20230924231153.png",
     "Pasted image 20230924231139.png",
     "logo-nvdh_only-transparent.png",
-    "Pasted image 20230924231035.png",
-    "trigun.md"
+    "Pasted image 20230924231035.png"
   ]
 }

@@ -2,7 +2,6 @@ stuff i havent watched, or have forgotten, isnt backlinked in any other note, an
 
 # ANIME
 
-[[?uta kata]]
 [[?key the metal idol]]
 [[?cencoroll connect]]
 [[?eve no jikan]]
@@ -18,6 +17,7 @@ stuff i havent watched, or have forgotten, isnt backlinked in any other note, an
 [[?kemono no souja erin]]
 [[?koufuku graffiti]]
 [[?shinsekai yori]]
+[[?uta kata]]
 [[?aria the animation]]
 [[?ancient magus bride]]
 [[?hakumei and mikochi]]
@@ -36,6 +36,9 @@ stuff i havent watched, or have forgotten, isnt backlinked in any other note, an
 [[?blue period]]
 [[?genshiken]]
 [[?honey and clover]]
+[[?magical destroyers]]
+[[?frieren]]
+[[?ashita no joe]]
 
 ## ALIEN NINE fansite recommendations
 recs from like the only alien 9 fan site still in existance, list can be found [here](https://alien9.crossrealms.net/info_story.php)
@@ -59,11 +62,11 @@ recs from like the only alien 9 fan site still in existance, list can be found [
 [[?legendz]] idk the dragons look cute and the anime looks kind of off the rails compared to the manga?
 [[?inuyasikki]]
 [[?witch hat atelier]]
+[[?inside mari]]
 
 
 # FILMS
 
-[[?fire walk with me]]
 [[?tom at the farm]] xavier dolan
 [[?dog day afternoon]]
 [[?amour (2012?)]] haneke
@@ -80,6 +83,7 @@ recs from like the only alien 9 fan site still in existance, list can be found [
 [[?weekend (2011)]]
 [[?gunhead (1989)]]
 [[?magical girl (2014)]]
+[[?pulse]]
 
 # MUSIC
 
@@ -114,4 +118,7 @@ recs from like the only alien 9 fan site still in existance, list can be found [
 [[?G.O.D (snes)]]
 [[?dinosaur resurrection]] falcom dungeon crawler
 [[?inaka kurashi nan no shima no monogatari]] natsuyasumi-like
-[[?doki oki (psx)]]
+[[?jaws unleashed]] ecco connection, nice water :)
+[[?astronoka (psx)]] theres a fallout 4 mod for this shit wtf?
+[[?Fukufuku no Shima]]
+[[?Nanatsu Kaze no Shima Monogatari]]

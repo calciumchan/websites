@@ -6,4 +6,4 @@ also worth note, most of the time that i talk about things here i kinda just ass
 
 this is all just goofy ass nonsense by the way, i just dont want to forget what ive seen.
 
-[[madoka magica]]
+[[garage]]

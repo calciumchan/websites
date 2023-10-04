@@ -9,14 +9,14 @@ body{
     padding-left:1rem;
     padding-right:1rem;
     padding-bottom: 2rem;
-    width: 500px;
+    width: 700px;
     max-width: 100%;
     min-height: 100%;
     position: absolute;
     box-sizing: border-box;
     top:0px;
     left:50%;
-    transform: translate(-250px,0px);
+    transform: translate(-350px,0px);
     text-shadow: 0px 0px 4px black;
     line-height: 1.5rem;
 }

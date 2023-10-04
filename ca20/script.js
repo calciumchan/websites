@@ -1,3 +1,7 @@
+//VARIABLES
+date = new Date();
+console.log(date)
+
 //LOGO
 var numberoflogos = 2;
 document.getElementById("logo").src = "assets/logo/" + Math.round(Math.random()*numberoflogos) + ".png";//LOGO
@@ -9,25 +13,49 @@ document.getElementById("header_bg").style.backgroundImage = "url(assets/header/
 let activetheme = "default";
 let themes = {
 	"default":{
-		
+		"phrases":[
+			"never stop searching for what speaks to you, pour all of your energy into it, spend all your money on it, then die",
+			"it's only helping if it helps.",
+			"if you don't love what you do, you dont deserve to do it at all.",
+			"find a place you belong and never let it go.",
+			"this world wasnt made for you, make your own.",
+			"no reason to fear",
+		]
 	},
 	"halloween":{
 		"class":"halloween",
+		"start_date":"oct 1",
+		"end_date":"nov 1",
+		"phrases":[
+			"SPOOKY!!",
+			"AAAAAA!!",
+			"you cannot kill me in a way that matters.",
+			"HAPPY HALLOWEEN!",
+			"too scary!",
+			"hand door car hook.",
+			"when theres no more room in hell, the dead will walk the earth.",
+			"watch ginger snaps (2000)"
+		]
 	},
 	"presentday":{
-		"class":"presentday"
+		"class":"presentday",
+		"date":"dec 25"
 	},
 	"navi":{
-		"class":"navi"
+		"class":"navi",
+		"date":"nov 26"
 	},
 	"racer":{
-		"class":"racer"
+		"class":"racer",
+		"date":"dec 3"
 	},
 	"calcium":{
-		"class":"calcium"
+		"class":"calcium",
+		"date":"dec 27"
 	},
 	"trans":{
-		"class":"trans"
+		"class":"trans",
+		"date":"mar 31"
 	},
 	"rot":{
 		"class":"rot"
@@ -37,27 +65,36 @@ let themes = {
 	}
 }
 
-//STUPID WORDS
-list_of_phrases = [
-	"Never stop searching for what speaks to you, pour all of your energy into it, spend all your money on it, then die",
-	"It's only helping if it helps.",
-	"If you don't love what you do, you dont deserve to do it at all.",
-	"find a place you belong and never let it go.",
-	"this world wasnt made for you, make your own.",
-	"no reason to fear",
-];
-
-document.getElementById("special_phrase").innerHTML = list_of_phrases[Math.round(Math.random()*(list_of_phrases.length-1))];
+document.getElementById("special_phrase").innerHTML = themes["default"].phrases[Math.round(Math.random()*(themes["default"].phrases.length-1))];
 
 function set_theme(themename){
 	if(themes[themename] != undefined){
 		activetheme = themename;
 		//SET THEME
+		document.body.classList = [];
 		document.body.classList.add(themes[themename].class);
+		//SET PHRASE
+		if(themes[themename].phrases != undefined){
+			document.getElementById("special_phrase").innerHTML = themes[themename].phrases[Math.round(Math.random()*(themes[themename].phrases.length-1))];
+		}else{
+			document.getElementById("special_phrase").innerHTML = themes["default"].phrases[Math.round(Math.random()*(themes["default"].phrases.length-1))];
+		}
 	}
 }
 
-//set_theme("halloween");
+for(let key in themes){
+	if(
+		//CHECK IF WITHIN DATES
+		themes[key].start_date != undefined &&
+		Date.parse(themes[key].start_date + " " + date.getFullYear()) < date.getTime() < Date.parse(themes[key].end_date + " " + date.getFullYear()) ||
+
+		//CHECK IF ON CURRENT DATE
+		themes[key].date != undefined &&
+		date.toLocaleString('default', { month: 'short' }).toLowerCase() + " " + date.getDate() == themes[key].date
+	){
+		set_theme(key);
+	}
+}
 
 /*------------------------------------------------------------------------------------------------------------------------
 
