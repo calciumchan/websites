@@ -5,4 +5,4 @@ like theres just something about the pixel art and the castle that really stick 
 
 anyways how bout them programmer art menus huh? its one of those things that you kinda just accept until its pointed out to you. and in my opinion its one of the many aspects of symphony that lulls you into this false sense that the game is running on lower end hardware? like it might just be me but theres a bunch of stuff in this game that tricks my brain into thinking its a snes title or something of the like. so when alucard turns into an adobe flash tweened wolf its like "oh shit this is crazy". the 3d spinning coffins when you save and that one background in that room with the sword thing? its all stuff thats probably pretty simple all things considered but it just feels so much cooler when its set against a bunch of stuff i associate with older generations of hardware.
 
-#games #castlevania 
+#games #castlevania #metroidvania

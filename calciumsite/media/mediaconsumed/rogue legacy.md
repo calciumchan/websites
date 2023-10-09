@@ -7,4 +7,4 @@ the amount of parameters and modifiers your character can have is really importa
 
 at some point i do want to design a roguelike proper. the idea of strange combinations i as a developer couldnt have possibly predicted is really intriguing to me, and a game like this may not hold much value to me on its own, but it does fill my head with little dancing variables and javascript objects, its the kind of game that makes me invision a hypothetical game i like more, and that does hold value to me on some level.
 
-#games #roguelike
+#games #roguelike #metroidvania 

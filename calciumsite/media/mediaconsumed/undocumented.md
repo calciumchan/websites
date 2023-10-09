@@ -1,6 +1,6 @@
 stuff ive watched and plan to talk about but havent
 usually stuff that isnt backlinked in other places
-
+there is also [[watchlist]] for things i havent seen
 # ANIME
 
 [[?heavenly delusion]]
@@ -69,22 +69,17 @@ usually stuff that isnt backlinked in other places
 
 # GAMES
 
-[[?ape escape]]
 [[?halo 2 (project cartographer)]]
 [[?CSGO]]
 [[?ratz instagib]]
 [[?celeste]]
-[[?bleed 1/2]]
 [[?doom 64]]
-[[?lunistice]]
 [[?umihara kawase (series)]]
 [[?sonic adventure]]
 [[?sonic adventure 2]]
 [[?monkey ball 1/2]]
 [[?strange telephone]]
-[[?luna nights]]
 [[?yomi hustle]]
-[[?yume nikki]]
 [[?melee]]
 [[?project M]]
 [[?teabat]]
@@ -97,7 +92,6 @@ usually stuff that isnt backlinked in other places
 
 # MUSIC
 
-[[?american football (lp1-3)]]
 [[?nurture - porter robinson]]
 [[?childs medical record - shinsei kamattechan]]
 [[?水星 (mercury)]] just a bunch of different versions of the same beat?

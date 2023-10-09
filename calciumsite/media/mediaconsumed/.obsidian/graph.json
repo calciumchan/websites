@@ -6,17 +6,67 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
-  "collapse-display": false,
+  "colorGroups": [
+    {
+      "query": "tag:#games  ",
+      "color": {
+        "a": 1,
+        "rgb": 5404128
+      }
+    },
+    {
+      "query": "tag:#youtube  ",
+      "color": {
+        "a": 1,
+        "rgb": 16711680
+      }
+    },
+    {
+      "query": "tag:#itch  ",
+      "color": {
+        "a": 1,
+        "rgb": 15365172
+      }
+    },
+    {
+      "query": "tag:#anime  ",
+      "color": {
+        "a": 1,
+        "rgb": 11021753
+      }
+    },
+    {
+      "query": "tag:#movies  ",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "tag:#manga  ",
+      "color": {
+        "a": 1,
+        "rgb": 7613049
+      }
+    },
+    {
+      "query": "tag:#shows  ",
+      "color": {
+        "a": 1,
+        "rgb": 4029260
+      }
+    }
+  ],
+  "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
   "nodeSizeMultiplier": 1,
   "lineSizeMultiplier": 1,
-  "collapse-forces": false,
+  "collapse-forces": true,
   "centerStrength": 0.518713248970312,
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.13348388671875,
-  "close": true
+  "scale": 0.6757621765136719,
+  "close": false
 }

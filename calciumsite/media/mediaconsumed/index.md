@@ -6,4 +6,13 @@ also worth note, most of the time that i talk about things here i kinda just ass
 
 this is all just goofy ass nonsense by the way, i just dont want to forget what ive seen.
 
-[[garage]]
+# COLLECTIONS
+
+the current state of my digital music collection:
+[[music collection]]
+
+stuff ive seen but havent linked anywhere else:
+[[undocumented]]
+
+stuff i plan on watching:
+[[watchlist]]

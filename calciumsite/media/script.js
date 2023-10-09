@@ -42,16 +42,20 @@ function load_note(filename){
     client.send();
 }
 
-//CHECK LINK
-if(location.search == ""){
-    load_note("index");
-}else{
-    load_note(location.search.substring(1,location.search.length));
-}
+document.addEventListener("DOMContentLoaded", function(event) {
+    //CHECK LINK
+    if(location.search == ""){
+        load_note("index");
+    }else{
+        load_note(location.search.substring(1,location.search.length));
+    }
+})
 
 function render_note(notedata, target){
     notearray = notedata.split("\n");
-    for(let i = 0; i < notearray.length; i++){
+    let length = notearray.length
+    let element = document.createElement("div");
+    for(let i = 0; i < length; i++){
         /*----------------------------------------------------------------------------------------------------
 
             IMAGES
@@ -109,20 +113,26 @@ function render_note(notedata, target){
             }
             if(notearray[i].substring(headeramount,headeramount+1) != " "){
                 //THIS IS A TAG
-                target.innerHTML += "<tag>" + notearray[i] + "</tag><br>";
+                element.innerHTML += "<tag>" + notearray[i] + "</tag><br>";
             }else{
                 //THIS IS A HEADER
-                target.innerHTML += "<h" + headeramount + ">" + notearray[i].substring(headeramount,notearray[i].length) + "</h" + headeramount + ">";
+                element.innerHTML += "<h" + headeramount + ">" + notearray[i].substring(headeramount,notearray[i].length) + "</h" + headeramount + ">";
             }
         }else if(notearray[i] == "---"){
-            target.innerHTML += "<hr>";
+            element.innerHTML += "<hr>";
         }else{
             /*----------------------------------------------------------------------------------------------------
 
                 REGULAR LINES
 
             ----------------------------------------------------------------------------------------------------*/
-            target.innerHTML += notearray[i] + "<br>";
+            element.innerHTML += notearray[i] + "<br>";
         }
     }
+    hide_loading()
+    target.innerHTML += element.innerHTML;
+}
+
+function hide_loading(){
+    document.getElementById("loading").style.visibility = "hidden";
 }

@@ -85,3 +85,16 @@ tag{
     max-width: 100%;
     box-shadow: 4px 4px 8px black;
 }
+
+#loading{
+	position:fixed;
+	top:0px;
+	left:0px;
+	margin:0px;
+	width:100vw;
+	height:100vh;
+	display:flex;
+	align-items: center;
+	justify-content: center;
+	background-color: rgba(0, 0, 0, 0.5);
+}

@@ -1,4 +1,5 @@
 stuff i havent watched, or have forgotten, isnt backlinked in any other note, and im planning on watching. some entries here have notes on how i found them or what theyre mentally connected to for my own reference later when i inevitably forget. a lot of the time i just throw things into my watch list from a few screenshots or a rec so dont take this as me recommending all this shit. some things have multiple adaptations (ie manga and anime) and those will usually just get sorted into whatever catagory i intend to view them in.
+there is also [[undocumented]] for stuff i have seen but havent talked about
 
 # ANIME
 
@@ -39,6 +40,7 @@ stuff i havent watched, or have forgotten, isnt backlinked in any other note, an
 [[?magical destroyers]]
 [[?frieren]]
 [[?ashita no joe]]
+[[?palm no kli]] so beautiful and cool!
 
 ## ALIEN NINE fansite recommendations
 recs from like the only alien 9 fan site still in existance, list can be found [here](https://alien9.crossrealms.net/info_story.php)
@@ -84,7 +86,11 @@ recs from like the only alien 9 fan site still in existance, list can be found [
 [[?gunhead (1989)]]
 [[?magical girl (2014)]]
 [[?pulse]]
-
+[[?about dry grasses]]
+[[?anatomy of a fall]]
+[[?the contestant]] nasubi doc??? crazy????
+[[?perfect days]]
+[[?fallen leaves]]
 # MUSIC
 
 ## ARTISTS
@@ -105,7 +111,6 @@ recs from like the only alien 9 fan site still in existance, list can be found [
 
 # GAMES
 [[?ultra fight da kyanta 2]]
-[[?ZZT]] "poorly planned comics" and "theirfiles" connection
 [[?ushiro]] cancelled PSP game thatll probably be cancelled again lets be real
 [[?threads of fate]] really impressive looking PSX game
 [[?seven: molmorth no kiheitai]] i live inside of the 3 screenshots ive seen of this game
@@ -122,3 +127,5 @@ recs from like the only alien 9 fan site still in existance, list can be found [
 [[?astronoka (psx)]] theres a fallout 4 mod for this shit wtf?
 [[?Fukufuku no Shima]]
 [[?Nanatsu Kaze no Shima Monogatari]]
+[[?beyond the labyrinth (3ds)]]
+[[?brutal complex (ITCH)]]

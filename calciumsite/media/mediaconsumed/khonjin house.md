@@ -26,4 +26,4 @@ if you want the calcium approved criterion collection super cut of my personal f
 - 65. cry about it
 - 70. the end (my art was in this one for like a fraction of a second)
 
-#youtube
+#youtube #shows 

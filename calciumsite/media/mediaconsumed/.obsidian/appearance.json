@@ -1,4 +1,6 @@
 {
   "accentColor": "",
-  "theme": "obsidian"
+  "theme": "obsidian",
+  "nativeMenus": false,
+  "cssTheme": "Dracula Plus"
 }
