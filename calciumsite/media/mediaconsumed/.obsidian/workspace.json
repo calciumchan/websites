@@ -4,35 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "14d9b0ef89012550",
+        "id": "dc8de200920666d4",
         "type": "tabs",
-        "dimension": 70.55837563451777,
         "children": [
           {
-            "id": "a7a119e66e961102",
+            "id": "c76933dd30b48696",
             "type": "leaf",
             "state": {
               "type": "graph",
               "state": {}
-            }
-          }
-        ]
-      },
-      {
-        "id": "8e0de01ff3b93447",
-        "type": "tabs",
-        "dimension": 29.441624365482234,
-        "children": [
-          {
-            "id": "d674910a31e2f962",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "music collection.md",
-                "mode": "source",
-                "source": false
-              }
             }
           }
         ]
@@ -64,7 +44,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "berserk",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -155,22 +135,33 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "3d-graph:3D Graph": false
     }
   },
-  "active": "a7a119e66e961102",
+  "active": "c76933dd30b48696",
   "lastOpenFiles": [
-    "american football 1.md",
-    "music collection.md",
-    "pee-wees big adventure.md",
-    "?american football 2.md",
     "undocumented.md",
+    "zerahypt.md",
+    "american football 1.md",
     "rpg maker 2k3.md",
+    "Pasted image 20231004122254.png",
+    "Pasted image 20231004122309.png",
+    "bleed 1 and 2.md",
+    "ape escape.md",
+    "super mario bros X.md",
+    "pee-wees big adventure.md",
+    "watchlist.md",
+    "music collection.md",
+    "faxanadu.md",
     "vomitoreum.md",
+    "Pasted image 20231010123411.png",
+    "gakkou gurashi.md",
+    "?happy sugar life.md",
+    "?jibaku shounen kanako-kun.md",
+    "?american football 2.md",
     "cave story.md",
     "tess.md",
-    "bleed 1 and 2.md",
-    "watchlist.md",
     "index.md",
     "mindustry.md",
     "opus magnum.md",
@@ -179,25 +170,14 @@
     "khonjin house.md",
     "rogue legacy.md",
     "GOB (demo).md",
-    "wonder egg priority.md",
-    "symphony of the night.md",
-    "super mario bros X.md",
-    "twin peaks.md",
-    "garage.md",
-    "ape escape.md",
     "Untitled.canvas",
-    "synecdoche new york.md",
     "Pasted image 20231004122323.png",
-    "?bleed 1/2.md",
     "?bleed 1",
-    "Pasted image 20231004122309.png",
-    "Pasted image 20231004122254.png",
     "images/Opus Magnum - Explosive Phial (80G, 88, 20, 2023-09-20-17-40-22) 1.gif",
     "images",
     "Opus Magnum - Courage Potion (70G, 106, 22, 2023-09-21-23-33-38).gif",
     "Pasted image 20230924231153.png",
     "Pasted image 20230924231139.png",
-    "logo-nvdh_only-transparent.png",
-    "Pasted image 20230924231035.png"
+    "logo-nvdh_only-transparent.png"
   ]
 }

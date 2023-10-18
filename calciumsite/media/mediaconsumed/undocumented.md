@@ -10,7 +10,6 @@ there is also [[watchlist]] for things i havent seen
 [[?erased]]
 [[?memories (anthology)]]
 [[?kite]]
-[[?drifting home]]
 [[?aggretsuko]]
 [[?beastars]]
 [[?chuunibyou]]
@@ -22,7 +21,6 @@ there is also [[watchlist]] for things i havent seen
 [[?evangelion rebuild 4]]
 [[?flcl]]
 [[?haibane renmei]]
-[[?happy sugar life (oh no)]]
 [[?lupin cagliostro]]
 [[?mawaru penguindrum]]
 [[?whisper of the heart]]
@@ -35,7 +33,6 @@ there is also [[watchlist]] for things i havent seen
 [[?mirai no mirai]]
 [[?shadow star narutaru]]
 [[?the stranger by the beach (anime)]]
-[[?gakkou gurashi]]
 [[?on-gaku: our sound]]
 
 # FILMS
@@ -87,7 +84,6 @@ there is also [[watchlist]] for things i havent seen
 [[?after a while (itch)]]
 [[?hlina]]
 [[?🐹]]
-[[?zerahypt]]
 [[?poinies poin]]
 
 # MUSIC

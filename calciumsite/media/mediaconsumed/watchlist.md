@@ -21,7 +21,6 @@ there is also [[undocumented]] for stuff i have seen but havent talked about
 [[?uta kata]]
 [[?aria the animation]]
 [[?ancient magus bride]]
-[[?hakumei and mikochi]]
 [[?inaka isha]]
 [[?hina]] kenji iwaisawa film i know nothing about?
 [[?encouragement of climb]]
@@ -129,3 +128,4 @@ recs from like the only alien 9 fan site still in existance, list can be found [
 [[?Nanatsu Kaze no Shima Monogatari]]
 [[?beyond the labyrinth (3ds)]]
 [[?brutal complex (ITCH)]]
+[[?tales of phantasia]]
