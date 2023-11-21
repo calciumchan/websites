@@ -1,5 +1,5 @@
-stuff i havent watched, or have forgotten, isnt backlinked in any other note, and im planning on watching. some entries here have notes on how i found them or what theyre mentally connected to for my own reference later when i inevitably forget. a lot of the time i just throw things into my watch list from a few screenshots or a rec so dont take this as me recommending all this shit. some things have multiple adaptations (ie manga and anime) and those will usually just get sorted into whatever catagory i intend to view them in.
-there is also [[undocumented]] for stuff i have seen but havent talked about
+stuff i havent watched, or have forgotten, isnt backlinked in any other note, and im planning on watching. some entries here have notes on how i found them or what theyre mentally connected to for my own reference later when i inevitably forget. a lot dof the time i just throw things into my watch list from a few screenshots or a rec so dont take this as me recommending all this shit. some things have multiple adaptations (ie manga and anime) and those will usually just get sorted into whatever catagory i intend to view them in.
+there is also [[undocumented]] for stuff i have seen but havent talked about.
 
 # ANIME
 
@@ -17,7 +17,6 @@ there is also [[undocumented]] for stuff i have seen but havent talked about
 [[?robotics;notes]]
 [[?kemono no souja erin]]
 [[?koufuku graffiti]]
-[[?shinsekai yori]]
 [[?uta kata]]
 [[?aria the animation]]
 [[?ancient magus bride]]
@@ -40,6 +39,8 @@ there is also [[undocumented]] for stuff i have seen but havent talked about
 [[?frieren]]
 [[?ashita no joe]]
 [[?palm no kli]] so beautiful and cool!
+[[?otogi juushi akazukin]] MIA
+[[?six hearts princess]] yall bitches dont even knowwww YALL DONT EVEN FUCKING KNOWWWW
 
 ## ALIEN NINE fansite recommendations
 recs from like the only alien 9 fan site still in existance, list can be found [here](https://alien9.crossrealms.net/info_story.php)
@@ -63,12 +64,10 @@ recs from like the only alien 9 fan site still in existance, list can be found [
 [[?legendz]] idk the dragons look cute and the anime looks kind of off the rails compared to the manga?
 [[?inuyasikki]]
 [[?witch hat atelier]]
-[[?inside mari]]
 
 
 # FILMS
 
-[[?tom at the farm]] xavier dolan
 [[?dog day afternoon]]
 [[?amour (2012?)]] haneke
 [[?kid with a bike]]
@@ -90,6 +89,11 @@ recs from like the only alien 9 fan site still in existance, list can be found [
 [[?the contestant]] nasubi doc??? crazy????
 [[?perfect days]]
 [[?fallen leaves]]
+
+# LIVE ACTION SHOWS
+
+[[?review (andy daly)]]
+
 # MUSIC
 
 ## ARTISTS

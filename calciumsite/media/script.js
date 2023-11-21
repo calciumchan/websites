@@ -82,15 +82,33 @@ function render_note(notedata, target){
                 notearray[i].indexOf("]]") 
             )
             if(backlink.charAt(0) == "?"){
-                notearray[i] = notearray[i].replace(
-                    "[[" + backlink + "]]",
-                    "<brokenlink>" + backlink.substring(1,backlink.length) + "</brokenlink>"
-                )
+				//BROKEN LINK
+				if(backlink.includes("|") == true){
+					notearray[i] = notearray[i].replace(
+						"[[" + backlink + "]]",
+						"<brokenlink>" + backlink.substring(1,backlink.length).split("|")[1] + "</brokenlink>"
+					)
+				}else{
+					notearray[i] = notearray[i].replace(
+						"[[" + backlink + "]]",
+						"<brokenlink>" + backlink.substring(1,backlink.length) + "</brokenlink>"
+						//backlink.substring(1,backlink.length)
+					)
+				}
             }else{
-                notearray[i] = notearray[i].replace(
-                    "[[" + backlink + "]]",
-                    "<backlink onclick = \"goto_note('" + backlink + "')\">" + backlink + "</backlink>"
-                )
+				//CUT LINK
+				if(backlink.includes("|") == true){
+					notearray[i] = notearray[i].replace(
+						"[[" + backlink + "]]",
+						"<backlink onclick = \"goto_note('" + backlink.split("|")[0] + "')\">" + backlink.split("|")[1] + "</backlink>"
+					)
+				}else{
+					//NORMAL LINK
+					notearray[i] = notearray[i].replace(
+						"[[" + backlink + "]]",
+						"<backlink onclick = \"goto_note('" + backlink + "')\">" + backlink + "</backlink>"
+					)
+				}
             }
             
         }

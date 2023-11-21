@@ -185,7 +185,7 @@
 - Duality
 ---
 # CARAVAN PALACE
-- _ I°_°I _
+- robot face
 ---
 # CARLY RAE JEPSEN
 - Emotion
@@ -305,7 +305,7 @@
 - 宇宙 日本 世田谷
 ---
 # FRUMS
-- Metacontinues
+- [[?metacontinues (frums)|Metacontinues]]
 ---
 # FUTURE GIRLFRIEND
 - Pink dance
@@ -671,7 +671,7 @@
 - Apricot Princess
 - Pony
 - Sunflower
-- bcos u will never b free (2015) [MP3 V0]
+- bcos u will never b free
 ---
 # RIDE
 - Weather Diaries

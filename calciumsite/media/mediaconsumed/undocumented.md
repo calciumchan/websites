@@ -3,8 +3,6 @@ usually stuff that isnt backlinked in other places
 there is also [[watchlist]] for things i havent seen
 # ANIME
 
-[[?heavenly delusion]]
-[[?promised neverland]]
 [[?anohana]]
 [[?silent voice]]
 [[?erased]]
@@ -48,9 +46,7 @@ there is also [[watchlist]] for things i havent seen
 [[?magnolia (1999)]]
 [[?gone girl]]
 [[?infinite sunshine of the spotless mind]]
-[[?donnie darko]]
 [[?martyrs]]
-[[?mommy (2014)]]
 [[?mother (2009)]]
 [[?the congress]]
 [[?antichrist]]
@@ -71,7 +67,6 @@ there is also [[watchlist]] for things i havent seen
 [[?ratz instagib]]
 [[?celeste]]
 [[?doom 64]]
-[[?umihara kawase (series)]]
 [[?sonic adventure]]
 [[?sonic adventure 2]]
 [[?monkey ball 1/2]]

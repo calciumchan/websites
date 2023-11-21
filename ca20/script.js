@@ -86,7 +86,8 @@ for(let key in themes){
 	if(
 		//CHECK IF WITHIN DATES
 		themes[key].start_date != undefined &&
-		Date.parse(themes[key].start_date + " " + date.getFullYear()) < date.getTime() < Date.parse(themes[key].end_date + " " + date.getFullYear()) ||
+		Date.parse(themes[key].start_date + " " + date.getFullYear()) < date.getTime() &&
+		date.getTime() < Date.parse(themes[key].end_date + " " + date.getFullYear())  ||
 
 		//CHECK IF ON CURRENT DATE
 		themes[key].date != undefined &&

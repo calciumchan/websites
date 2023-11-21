@@ -47,7 +47,7 @@ body{
 
 backlink, brokenlink, tag, a{
     color:#ddddff;
-    background-color: #333344;
+    background-color: #333355;
     cursor: pointer;
     text-decoration: none;
     padding-left:4px;
@@ -74,7 +74,7 @@ brokenlink{
 }
 
 brokenlink::after{
-    content:" ✗";
+    content:"";
 }
 
 tag{

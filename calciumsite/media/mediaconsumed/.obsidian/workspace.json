@@ -4,15 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "dc8de200920666d4",
+        "id": "e4904ee78f30504c",
         "type": "tabs",
         "children": [
           {
-            "id": "c76933dd30b48696",
+            "id": "08dab8f7ee11d25e",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "watchlist.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2040d4402229a95b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "butterfly effect.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -44,7 +60,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "berserk",
+                "query": "butterfly",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +77,8 @@
               "state": {}
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -81,6 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "watchlist.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "watchlist.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +137,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "watchlist.md"
+              }
             }
           }
         ]
@@ -139,45 +160,46 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "c76933dd30b48696",
+  "active": "08dab8f7ee11d25e",
   "lastOpenFiles": [
+    "butterfly effect.md",
+    "dorohedoro.md",
     "undocumented.md",
-    "zerahypt.md",
-    "american football 1.md",
-    "rpg maker 2k3.md",
-    "Pasted image 20231004122254.png",
-    "Pasted image 20231004122309.png",
-    "bleed 1 and 2.md",
-    "ape escape.md",
-    "super mario bros X.md",
-    "pee-wees big adventure.md",
+    "inside mari.md",
+    "?metacontinues (frums).md",
+    "rusted moss.md",
     "watchlist.md",
-    "music collection.md",
-    "faxanadu.md",
-    "vomitoreum.md",
-    "Pasted image 20231010123411.png",
+    "bleed 1 and 2.md",
     "gakkou gurashi.md",
-    "?happy sugar life.md",
-    "?jibaku shounen kanako-kun.md",
-    "?american football 2.md",
+    "garage.md",
+    "rpg maker 2k3.md",
+    "faxanadu.md",
+    "music collection.md",
     "cave story.md",
-    "tess.md",
     "index.md",
-    "mindustry.md",
-    "opus magnum.md",
-    "Opus Magnum - Explosive Phial (80G, 88, 20, 2023-09-20-17-40-22).gif",
-    "tetris (tetr.io).md",
-    "khonjin house.md",
-    "rogue legacy.md",
-    "GOB (demo).md",
+    "Pasted image 20231023145003.png",
+    "Pasted image 20231023144958.png",
+    "Pasted image 20231023144952.png",
+    "Pasted image 20231023144946.png",
+    "Pasted image 20231023144940.png",
+    "Pasted image 20231023144927.png",
+    "Pasted image 20231023144918.png",
+    "Pasted image 20231023144848.png",
+    "Pasted image 20231023144841.png",
+    "Pasted image 20231023144833.png",
+    "twin peaks.md",
+    "pee-wees big adventure.md",
+    "ape escape.md",
+    "vomitoreum.md",
+    "american football 1.md",
+    "zerahypt.md",
+    "tom at the farm.md",
+    "shinsekai yori.md",
     "Untitled.canvas",
-    "Pasted image 20231004122323.png",
+    "super mario bros X.md",
+    "mindustry.md",
+    "?happy sugar life.md",
     "?bleed 1",
-    "images/Opus Magnum - Explosive Phial (80G, 88, 20, 2023-09-20-17-40-22) 1.gif",
-    "images",
-    "Opus Magnum - Courage Potion (70G, 106, 22, 2023-09-21-23-33-38).gif",
-    "Pasted image 20230924231153.png",
-    "Pasted image 20230924231139.png",
-    "logo-nvdh_only-transparent.png"
+    "images"
   ]
 }
