@@ -1,0 +1,89 @@
+:root{
+	--cardbg:rgba(0,0,0,0.95);
+	--main-color:#ffff00;
+	--bgcolor:#000000;
+}
+
+body{
+	background-color: var(--bgcolor);
+	color:var(--main-color);
+	margin: 0px;
+	display: grid;
+	place-items: center;
+	width: 100vw;
+	height: 100vh;
+}
+
+#holder{
+	display:flex;
+	flex-direction: column;
+	align-items: center;
+	margin: 0px;
+	top:0px;
+	left:0px;
+	overflow: scroll;
+	width: 100vw;
+	height: 100vh;
+	max-width: 1280px;
+	padding-top: 1rem;
+	box-sizing: border-box;
+}
+
+#header{
+	width: 100%;
+	height: max-content;
+	background-color: var(--cardbg);
+	text-align: center;
+	border-style: solid;
+	border-color: var(--main-color);
+	box-sizing: border-box;
+
+}
+
+#header_background{
+	background-image: url("https://media.istockphoto.com/id/157394491/photo/city-street-in-black-and-white.jpg?s=612x612&w=0&k=20&c=lMI3JYjjwfLOCXPhHLOpaJbnDUJPjecqYZLqlUaX31s=");
+	background-color: var(--main-color);
+	background-blend-mode:multiply;
+	width: 100%;
+	height: 200px;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	text-align: left;
+	padding: 1rem;
+	font-size: xx-large;
+	font-weight: bolder;
+	overflow: hidden;
+	box-sizing: border-box;
+	text-shadow: 
+		0px 0px 8px var(--bgcolor),
+		0px 0px 8px var(--bgcolor),
+		0px 0px 8px var(--bgcolor),
+		0px 0px 8px var(--bgcolor),
+		0px 0px 8px var(--bgcolor),
+		0px 0px 8px var(--bgcolor),
+		0px 0px 8px var(--bgcolor),
+		0px 0px 8px var(--bgcolor)
+	;
+}
+
+#header_navbar{
+	background-color: var(--bgcolor);
+	color:var(--main-color);
+	font-weight: bolder;
+	font-size:xx-large;
+}
+
+::selection{
+	background-color: var(--main-color);
+	color:var(--bgcolor);
+}
+
+a, a:visited{
+	color:var(--bgcolor);
+	text-decoration: none;
+	text-shadow: 
+		0px 0px 8px var(--main-color),
+		0px 0px 8px var(--main-color)
+	;
+}

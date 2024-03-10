@@ -4,28 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "e4904ee78f30504c",
+        "id": "68024ce2bda3147c",
         "type": "tabs",
         "children": [
           {
-            "id": "08dab8f7ee11d25e",
+            "id": "7a53987e8d6ed36f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
                 "file": "watchlist.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "2040d4402229a95b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "butterfly effect.md",
                 "mode": "source",
                 "source": false
               }
@@ -60,7 +48,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "butterfly",
+                "query": "\"(yt)\"",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +66,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -160,45 +148,44 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "08dab8f7ee11d25e",
+  "active": "10585bf0aa4d99e3",
   "lastOpenFiles": [
-    "butterfly effect.md",
-    "dorohedoro.md",
-    "undocumented.md",
-    "inside mari.md",
-    "?metacontinues (frums).md",
-    "rusted moss.md",
-    "watchlist.md",
-    "bleed 1 and 2.md",
-    "gakkou gurashi.md",
+    "suzume no tojimari.md",
+    "Pasted image 20240306134236.png",
+    "goodbye eri.md",
+    "star strings yori.md",
+    "bibliomania.md",
+    "Pasted image 20231023144940.png",
     "garage.md",
-    "rpg maker 2k3.md",
-    "faxanadu.md",
-    "music collection.md",
-    "cave story.md",
+    "GOB (demo).md",
+    "do it yourself (anime).md",
+    "undocumented.md",
     "index.md",
+    "gash bell.md",
+    "mystery dungeon.md",
+    "watchlist.md",
+    "ted.md",
+    "fire punch.md",
+    "detachment.md",
+    "mr robot.md",
+    "battle royale.md",
+    "killers of the flower moon.md",
+    "star wars megagame board and savior (yt).md",
+    "alternate universe pokemon iceberg.md",
+    "music collection.md",
+    "tom at the farm.md",
+    "butterfly effect.md",
+    "squid game.md",
+    "?squid game.md",
+    "Opus Magnum - Explosive Phial (80G, 88, 20, 2023-09-20-17-40-22).gif",
     "Pasted image 20231023145003.png",
     "Pasted image 20231023144958.png",
     "Pasted image 20231023144952.png",
     "Pasted image 20231023144946.png",
-    "Pasted image 20231023144940.png",
     "Pasted image 20231023144927.png",
     "Pasted image 20231023144918.png",
     "Pasted image 20231023144848.png",
-    "Pasted image 20231023144841.png",
-    "Pasted image 20231023144833.png",
-    "twin peaks.md",
-    "pee-wees big adventure.md",
-    "ape escape.md",
-    "vomitoreum.md",
-    "american football 1.md",
-    "zerahypt.md",
-    "tom at the farm.md",
-    "shinsekai yori.md",
     "Untitled.canvas",
-    "super mario bros X.md",
-    "mindustry.md",
-    "?happy sugar life.md",
     "?bleed 1",
     "images"
   ]

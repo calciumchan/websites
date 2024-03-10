@@ -565,9 +565,6 @@
 # NAH
 - LIGHT AS FUCK
 ---
-# NEGATIVE XP
-- Goodbye
----
 # NEIL CICIEREGA
 - Mouth Silence
 - Mouth Sounds

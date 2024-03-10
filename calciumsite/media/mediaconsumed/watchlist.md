@@ -10,7 +10,6 @@ there is also [[undocumented]] for stuff i have seen but havent talked about.
 [[?bungo stray dogs]]
 [[?casshern sins]]
 [[?planet with]]
-[[?suzume no tojimari]] shinkai makoto thing oh well
 [[?cop craft]]
 [[?mujin wakusei survive]]
 [[?planetes]]
@@ -30,21 +29,31 @@ there is also [[undocumented]] for stuff i have seen but havent talked about.
 [[?b gata h kei]]
 [[?inu-oh]]
 [[?bubble]]
+[[?pale cocoon]]
 [[?the girl from the other side]] really really pretty art and an even prettier goat crow man :))))
 [[?tsuritama]]
 [[?blue period]]
 [[?genshiken]]
 [[?honey and clover]]
+[[?henzemi]]
 [[?magical destroyers]]
 [[?frieren]]
 [[?ashita no joe]]
 [[?palm no kli]] so beautiful and cool!
 [[?otogi juushi akazukin]] MIA
 [[?six hearts princess]] yall bitches dont even knowwww YALL DONT EVEN FUCKING KNOWWWW
+[[?pompo the cinephile]]
+[[?fabtastic children]]
+[[?gleipnir]]
+[[?soredemo machi was mawatteiru]] silly robot maid?
+[[?tsuritama]]
+[[?yofukashi no uta]] nice fuckin style lmao
+[[?yaku nara mug cup mo]] idk homie, narutaru studio fml
+[[?nijiiro hotaru: eien no natsuyasumi]]
+[[?yuri seijin naoko-san]]
 
 ## ALIEN NINE fansite recommendations
 recs from like the only alien 9 fan site still in existance, list can be found [here](https://alien9.crossrealms.net/info_story.php)
-
 [[?figure 17]]
 [[?mokke]]
 [[?now and then here and there]]
@@ -58,13 +67,27 @@ recs from like the only alien 9 fan site still in existance, list can be found [
 [[?switch witch]] nice art style
 [[?yani neko]] smoking cat girl? smoking cat girl???
 [[?gregory horror show: another world]] huh???
-[[?star strings yori]] akihito tsukushi shit
 [[?tate no kuni]]
 [[?ashizuri suizokukan]]
 [[?legendz]] idk the dragons look cute and the anime looks kind of off the rails compared to the manga?
 [[?inuyasikki]]
 [[?witch hat atelier]]
-
+[[?20th century boys]]
+[[?tomodachi X monster]]
+[[?saishuu heiki kanojo]]
+[[?ogeha]]
+[[?uwa youjo tsuyoi]]
+[[?hoshi no ponko to toufuya]]
+[[?tokyo akazukin]]
+[[?uratarou]]
+[[?tetsuwan adam]]
+[[?denjin N]]
+[[?mushihime]]
+[[?jinmen]]
+[[?watashi ga 15-sai dewa nakunattemo]]
+[[?kimi ga bokura wo akuma to yonda koro]]
+[[?warera contactee]]
+[[?karappo no shoujo to niji no kakera]]
 
 # FILMS
 
@@ -98,11 +121,8 @@ recs from like the only alien 9 fan site still in existance, list can be found [
 
 ## ARTISTS
 
-[[?the weakerthans]]
 [[?mondolywoots]]
-[[?serani poji]]
 [[?origami angel]]
-[[?halcali]]
 [[?deadstar]] "that song tahts never on the radio"
 [[?dinosaur JR]]
 [[?low]]
@@ -133,3 +153,4 @@ recs from like the only alien 9 fan site still in existance, list can be found [
 [[?beyond the labyrinth (3ds)]]
 [[?brutal complex (ITCH)]]
 [[?tales of phantasia]]
+[[?strung up by sketches]]

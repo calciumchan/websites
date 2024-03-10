@@ -82,3 +82,90 @@ a:hover{
 	width:100%;
 	image-rendering: crisp-edges;
 }
+
+@keyframes a9_rule {
+	0%{
+		background-position: 0px;
+	}
+	100%{
+		background-position: 100px;
+	}
+}
+
+a9_rule{
+
+	animation-name:;
+	animation-duration: 8s;
+	animation-iteration-count: infinite;
+	animation-direction: alternate;
+
+	margin-top: .5rem;
+	margin-bottom: .5rem;
+
+	position:relative;
+
+	display: block;
+	width: calc(100% + 2rem);
+	margin-left: -1rem;
+	height: var(--overall-height);
+	background-color: red;
+	box-shadow: 0px 0px 8px 4px black;
+	border-radius:calc(var(--overall-height)/4) var(--overall-height) var(--overall-height) calc(var(--overall-height)/4);
+	text-shadow: 0px 0px 4px white;
+
+	z-index:1;
+
+	--overall-height:3rem;
+	--outer-width:calc(var(--overall-height)/1.5);
+	--inner-width:calc(var(--outer-width)/2);
+	--backing-color:rgb(0, 0, 0);
+	--inner-margin:20%;
+	--outer-color:rgb(121, 121, 121);
+	--highlight-color:rgb(129, 116, 116);
+	--shine-color:rgba(228, 169, 169, 0.5);
+
+	background-image:
+		repeating-linear-gradient(
+			180deg,
+			black,
+			rgba(0,0,0,0) 10%,
+			var(--shine-color) 30%,
+			rgba(0,0,0,0),
+			rgba(0,0,0,0) 75%,
+			black
+		),
+		repeating-linear-gradient(
+			45deg,
+			rgba(0,0,0,0),
+			var(--highlight-color) 2px,
+			var(--outer-color) 4px,
+			var(--outer-color) calc(var(--outer-width) - 4px),
+			var(--highlight-color) calc(var(--outer-width) - 2px),
+			rgba(0,0,0,1) calc(var(--outer-width)),
+			rgba(0,0,0,0) calc(var(--outer-width) + var(--inner-width) - 2px)
+		),
+		linear-gradient(
+			180deg,
+			var(--backing-color) var(--inner-margin),
+			var(--backing-color) var(--inner-margin),
+			var(--highlight-color) var(--inner-margin),
+			rgb(22, 22, 22) calc(var(--inner-margin) + 3px),
+			rgb(59, 59, 59),
+			rgb(22, 22, 22) calc(100% - var(--inner-margin) - 3px),
+			var(--highlight-color) calc(100% - var(--inner-margin)),
+			var(--backing-color) calc(100% - var(--inner-margin))
+		)
+	;
+}
+a9_rule::after{
+	position: absolute;
+	display: block;
+	width: 0px;
+	height: 0px;
+	border-style: solid;
+	border-width: calc(var(--overall-height)/5) calc(var(--overall-height)/2) calc(var(--overall-height)/5) 0;
+	border-color: transparent  var(--outer-color) transparent transparent;
+	right:100%;
+	content: "";
+	top: calc(var(--overall-height)/3);
+}
