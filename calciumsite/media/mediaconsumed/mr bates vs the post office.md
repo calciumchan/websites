@@ -1,0 +1,8 @@
+2024-03-18
+i dont really remember where i heard about this show. but it seemed really interesting. political intrigue always really hooks me, and this is based on real events in the best way possible. this apparently renewed a lot of public interest in the court case earlier this year. i think thats really cool, and while it is a shame that something like this had to have a fucking drama show for it to really hit the public, its kind of cool to me nonetheless that art can have an impact like this.
+
+all that being said, i ended up only watching one episode. i may watch more in the future, but its just so dry that i cant bother making it through much more. its honestly hard to follow at times with how common the time skips are. the show doesnt telegraph its relative time all that well outside of characters just saying "oh golly gee, its been 2 years since we got fucked by big postal". at that point you might as well have some kind of indiana jones styled calendar scene transition, at the very least that would convey the time skips better.
+
+i dont know, maybe this is what its like for normal people to watch anime. maybe im just not accustomed to this level of quality from "critically acclaimed" live action shows. i really went in wanting to enjoy this, but i really did bounce off it so hard that i dont really feel like sinking 4 hours into this if the quality is going to remain about the same.
+
+i really honestly hate writing about something negatively, but thats just kind of how it is sometimes.

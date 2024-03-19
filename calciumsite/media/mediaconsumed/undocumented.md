@@ -11,7 +11,6 @@ there is also [[watchlist]] for things i havent seen
 [[?beastars]]
 [[?chuunibyou]]
 [[?beyond the beyond]]
-[[do it yourself (anime)]]
 [[?eizouken]]
 [[?evangelion rebuild 1-2]]
 [[?evangelion rebuild 3]]
@@ -45,7 +44,7 @@ there is also [[watchlist]] for things i havent seen
 [[?magnolia (1999)]]
 [[?gone girl]]
 [[?infinite sunshine of the spotless mind]]
-[[?martyrs]]
+[[martyrs]]
 [[?mother (2009)]]
 [[?the congress]]
 [[?antichrist]]
@@ -97,4 +96,4 @@ stuff im currently watching
 [[?kimi wa hokago insomnia]]
 [[?yofukashi no uta]]
 [[?turn A gundam]] rewatch
-[[?pokemon emerald rogue]]
+[[?barony]]

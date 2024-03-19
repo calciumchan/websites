@@ -47,6 +47,7 @@ there is also [[undocumented]] for stuff i have seen but havent talked about.
 [[?gleipnir]]
 [[?soredemo machi was mawatteiru]] silly robot maid?
 [[?tsuritama]]
+[[?metallic rogue]]
 [[?yofukashi no uta]] nice fuckin style lmao
 [[?yaku nara mug cup mo]] idk homie, narutaru studio fml
 [[?nijiiro hotaru: eien no natsuyasumi]]
@@ -112,6 +113,7 @@ recs from like the only alien 9 fan site still in existance, list can be found [
 [[?the contestant]] nasubi doc??? crazy????
 [[?perfect days]]
 [[?fallen leaves]]
+[[?love exposure]]
 
 # LIVE ACTION SHOWS
 
@@ -154,3 +156,5 @@ recs from like the only alien 9 fan site still in existance, list can be found [
 [[?brutal complex (ITCH)]]
 [[?tales of phantasia]]
 [[?strung up by sketches]]
+[[?ancient roman: power of darkside]]
+[[?kinetica]]

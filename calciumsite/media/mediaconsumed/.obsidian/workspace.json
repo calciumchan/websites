@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "watchlist.md",
+                "file": "martyrs.md",
                 "mode": "source",
                 "source": false
               }
@@ -48,8 +48,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "\"(yt)\"",
-                "matchingCase": true,
+                "query": "",
+                "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -86,7 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "watchlist.md",
+                "file": "martyrs.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "watchlist.md",
+                "file": "martyrs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "watchlist.md"
+                "file": "martyrs.md"
               }
             }
           }
@@ -148,8 +148,15 @@
       "3d-graph:3D Graph": false
     }
   },
-  "active": "10585bf0aa4d99e3",
+  "active": "7a53987e8d6ed36f",
   "lastOpenFiles": [
+    "watchlist.md",
+    "martyrs.md",
+    "undocumented.md",
+    "mr bates vs the post office.md",
+    "2024-03-18.md",
+    "ssss gridman.md",
+    "do it yourself (anime).md",
     "suzume no tojimari.md",
     "Pasted image 20240306134236.png",
     "goodbye eri.md",
@@ -158,12 +165,9 @@
     "Pasted image 20231023144940.png",
     "garage.md",
     "GOB (demo).md",
-    "do it yourself (anime).md",
-    "undocumented.md",
     "index.md",
     "gash bell.md",
     "mystery dungeon.md",
-    "watchlist.md",
     "ted.md",
     "fire punch.md",
     "detachment.md",
@@ -174,9 +178,6 @@
     "alternate universe pokemon iceberg.md",
     "music collection.md",
     "tom at the farm.md",
-    "butterfly effect.md",
-    "squid game.md",
-    "?squid game.md",
     "Opus Magnum - Explosive Phial (80G, 88, 20, 2023-09-20-17-40-22).gif",
     "Pasted image 20231023145003.png",
     "Pasted image 20231023144958.png",
