@@ -44,7 +44,6 @@ there is also [[watchlist]] for things i havent seen
 [[?magnolia (1999)]]
 [[?gone girl]]
 [[?infinite sunshine of the spotless mind]]
-[[martyrs]]
 [[?mother (2009)]]
 [[?the congress]]
 [[?antichrist]]
