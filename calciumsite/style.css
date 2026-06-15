@@ -1,10 +1,10 @@
 body{
 	font-size : 10pt;
 	font-family : "Courier New",Courier,mono;
-	background-color: #000;
+	background-color: black;
 	color:#ffc0be;
-	background-image: url("assets/background.png");
 	background-attachment:fixed;
+	background-image: url("assets/background.png");
 }
 
 a{
@@ -17,6 +17,16 @@ a:hover{
 	color:#66aa66;
 }
 
+hr{
+	border-width: 0px;
+	height:8px;
+	box-shadow:
+		inset 0px 0px 8px black
+	;
+	border-radius: 100%;
+	width: calc(100% - 32px);
+}
+
 #main{
 	position:absolute;
 	top:0px;
@@ -25,10 +35,6 @@ a:hover{
 	transform: translate(-50%, 0%);
 	width:512px;
 	max-width: 100%;
-	background-color: rgba(0,0,0,0.3);
-	border-style:none solid none solid;
-	border-color:#ffc0be;
-	border-width: 4px;
 	text-align: center;
 }
 
@@ -42,45 +48,44 @@ a:hover{
 }
 
 .box{
-	margin-bottom:.5rem;
+	margin-bottom:1rem;
 	background-color: #111;
-	padding-bottom: 8px;
+	padding-bottom: 1rem;
 	position:relative;
 	background-image: url("assets/boxbg.png");
+	box-shadow:
+		0px 0px 4px black,
+		inset -1px -1px 4px black,
+		inset 1px 1px 4px #333
+	;
 }
 
 .box:last-of-type{
-	margin-bottom:8rem;
+	border-radius: 0px 0px 16px 16px;
 }
 .box_header{
-	top:0px;
-	left:0px;
-	margin-bottom: 1rem;
-	width:100%;
-	text-align: left;
-}
-.box_header_visual{
 	background-image: url("assets/boxheadericon.gif");
 	background-repeat: no-repeat;
 	padding-left: 32px;
 	padding-right: 1rem;
+	left:-8px;
+	top:-4px;
+	position:relative;
 	background-color: black;
 	min-height: 32px;
 	max-width: 94%;
+	width: max-content;
 	text-align: left;
-	display:inline-flex;
+	display:flex;
 	break-after:column;
 	align-items: center;
 	border-radius: 0px 0px 16px 0px;
-	box-shadow: 0px 0px 8px black;
-}
-.plant{
-	position: fixed;
-}
-
-#flower{
-	width:100%;
-	image-rendering: crisp-edges;
+	box-shadow:
+		0px 0px 8px black,
+		inset -1px -1px 4px black,
+		inset 1px 1px 4px #333
+	;
+	margin-bottom: 1rem;
 }
 
 @keyframes a9_rule {

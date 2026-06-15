@@ -1,110 +1,261 @@
 body{
-    background-color: black;
-    font-family: 'Courier New', monospace;
-}
-
-#holder{
-	position:fixed;
-	left:0px;
-	top:0px;
-	width: 100%;
-	height: 100%;
-
-	display:grid;
-	place-content: center;
-	grid-template-areas: main;
-
+	font-family: 'Courier New', monospace;
 }
 
 #main{
-    background-color: #222233;
-    color:#ffdddd;
-    padding-left:1rem;
-    padding-right:1rem;
-    padding-bottom: 2rem;
-    width: 700px;
-    max-width: 100vw;
-    height: 100vh;
-    box-sizing: border-box;
-    text-shadow: 0px 0px 4px black;
-    line-height: 1.5rem;
-	overflow: scroll;
-}
-#main_navbar{
-    background-color:#555566;
-    text-align: center;
-    margin-bottom:1rem;
-    border-radius: 0px 0px 1rem 1rem;
-    padding: 1rem;
+	display: grid;
+	position: fixed;
+	top: 0px;
+	left:0px;
+	width: 100vw;
+	height: 100vh;
 
+	grid-template-areas: 
+		"emptyheader header"
+		"sidebar reader"
+		"empty reader"
+		"empty footer"
+	;
+	grid-template-rows:
+		max-content
+		1fr
+		1fr
+		max-content
+	;
+	grid-template-columns:
+		max-content minmax(auto, 50rem)
+	;
+
+	justify-content: center;
+	
+	grid-gap: 0rem;
+	box-sizing: border-box;
+	padding: 1rem 0rem;
+	background-color: #f2f6dd;
+	background-image: linear-gradient(0deg, #425f5a, transparent);
+}
+
+#main_header, #main_footer{
+
+	background-color: #272123dd;
+	width: 100%;
+	height: 2rem;
+	box-shadow: 0px 0px 8px black;
+	overflow: hidden;
+
+	background-image:url(assets/readerbg.png);
 }
 
 #main_header{
-    text-align: center;
-    background-color: #666677;
-    padding: 2rem;
-    font-weight: bolder;
-    margin-bottom:1rem;
-    border-radius: 1rem;
-    box-shadow: 4px 4px 8px black;
-}
-#main_header::before{
-    content:"「 ";
-}
-#main_header::after{
-    content:" 」";
+	border-radius: 75% 25% 0px 0px;
+
+	grid-area: header;
+	box-sizing: border-box;
 }
 
-backlink, brokenlink, tag, a{
-    color:#ddddff;
-    background-color: #333355;
-    cursor: pointer;
-    text-decoration: none;
-    padding-left:4px;
-    padding-right: 4px;
-    font-weight: bolder;
-    box-shadow: 0px 0px 8px #111122;
-    border-radius: .5rem;
+#main_footer{
+	grid-area: footer;
+
+	border-radius: 0px 0px 75% 25% ;
 }
 
-backlink::after{
-    content: "→";
+#main_sidebar{
+	background-color: #351c1c;
+	width: 100%;
+	height: max-content;
+	max-height: 100%;
+	grid-area: sidebar;
+
+	overflow-y: scroll;
+	overflow-x: hidden;
+
+	width: .5rem;
+
+	border-radius: 2rem 0px 0px 2rem;
+
+	box-shadow: inset 0px 0px 4px black;
+
+	display: flex;
+	flex-direction: column;
+	justify-content: start;
+	text-align: center;
+	padding: 2rem 0px;
+
+	box-sizing: border-box;
+
+	background-image:url(assets/readerbg.png);
+	background-attachment:local;
+
+	transition-property: width,padding;
+	transition-duration: .25s;
 }
 
-backlink:hover, tag:hover, a:hover{
-    color:#ffffff;
-    background-color: #444455;
-    box-shadow: 0px 0px 8px #444455;
+#main_sidebar:hover{
+	width: 10rem;
+	padding: 2rem 8px;
 }
 
-brokenlink{
-    color:#ddddee;
-    background-color: #333333;
-    cursor: not-allowed;
+.main_sidebar_button{
+	width: 100%;
+	box-sizing: border-box;
+	padding: 4px 16px 16px 8px;
+
+	transition-duration: 0.25s;
+	transition-property: background-color, box-shadow;
+
+	box-shadow: 
+		inset -4px -4px 8px rgba(0,0,0,0.5),
+		inset 4px 4px 8px rgba(255,255,255,0.25),
+		0px 0px 0px red
+	;
+
+	border-radius: 8px 25% 75% 8px;
+
+	word-wrap: normal;
+
+	font-weight: bolder;
+	text-align: left;
+	color:white;
+
+	margin: 4px 0px;
 }
 
-brokenlink::after{
-    content:"";
+.main_sidebar_button:hover{
+	background-color: rgba(255,0,0,0.5);
+	box-shadow:
+		inset 4px 4px 8px transparent,
+		inset -4px -4px 8px transparent,
+		0px 0px 8px red
+	;
+}
+
+#main_reader{
+	grid-area: reader;
+	background-color: #272123ef;
+
+	background-image: url(assets/readerbg.png);
+	background-attachment:local;
+
+	overflow-y: scroll;
+	overflow-x: hidden;
+	padding: 1rem;
+	box-sizing: border-box;
+	font-size: larger;
+
+	width: 100%;
+	max-width: 50rem;
+
+	box-sizing: border-box;
+
+	word-break: break-all;
+
+	color:#FFFDD0;
 }
 
 tag{
-    color:#ffaaaa;
+	background-color: orange;
+	color:black;
+	padding: 0px 8px;
+	border-radius: 4px 16px;
+	box-shadow: 0px 0px 4px black;
+	transition-property: box-shadow, background-color;
+	transition-duration: .25s;
+
+	display: inline-block;
 }
 
-.inlineimage{
-    max-width: 100%;
-    box-shadow: 4px 4px 8px black;
+tag:hover{
+	box-shadow: 0px 0px 4px white;
+	background-color: white;
 }
 
-#loading{
-	position:fixed;
-	top:0px;
-	left:0px;
-	margin:0px;
-	width:100vw;
-	height:100vh;
-	display:flex;
-	align-items: center;
-	justify-content: center;
-	background-color: rgba(0, 0, 0, 0.5);
+backlink, brokenlink{
+	background-color: rgba(0,0,0,0.1);
+	
+	padding: 0px 4px;
+}
+
+backlink{
+	background-color: rgba(0,0,0,0.5);
+	transition-duration: 0.25s;
+	transition-property: color, background-color, box-shadow;
+	border-radius: 0px 8px 8px 0px;
+	color:white;
+
+	display: inline-block;
+}
+
+backlink:hover{
+	background-color: white;
+	box-shadow: 0px 0px 8px red;
+	color:black;
+	cursor: pointer;
+}
+
+brokenlink{
+	cursor: not-allowed;
+}
+
+backlink::before{
+	content: "";
+}
+
+.inline-img{
+	max-width: 100%;
+}
+
+.image_examine{
+	position: fixed;
+
+}
+
+datestamp{
+	box-shadow: 
+		inset 4px 4px 8px black,
+		inset -4px -4px 8px rgba(255,255,255,0.25),
+
+		4px 4px 8px black,
+		-4px -4px 8px rgba(255,255,255,0.25)
+	;
+
+
+	padding: 16px 32px;
+	
+	border-radius: 50% 50%;
+
+	font-weight: bolder;
+
+	color:white;
+	text-shadow: 0px 0px 8px red;
+	transform: rotate(5deg);
+
+	display: block;
+	text-align: center;
+	float:right;
+	width:max-content;
+
+	margin: .5rem;
+
+	border-style: solid;
+	border-color: transparent;
+	border-width: 4px 16px 4px 4px;
+}
+
+datestamp::before{
+	content: "@";
+}
+
+
+hr{
+	width: 100%;
+	height: .5rem;
+	border-style: none;
+	border-radius: 1rem;
+	box-shadow: 
+		4px 4px 8px black,
+		-4px -4px 8px rgba(255,255,255,0.25)
+	;
+
+	background-image: repeating-linear-gradient(45deg, rgba(0,0,0,0.25), rgba(0,0,0,0.25) 1rem, transparent 1rem, transparent 2rem);
+
 }
